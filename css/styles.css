@@ -1,0 +1,71 @@
+:root {
+    --main-title-color: #ffffff;
+    --second-title-color: #212121;
+    --main-text-color: #757575;
+    --third-text-color: #9da4bd;
+    --fourth-text-color: #303030;
+    --accent-color: #2196F3;
+    --main-btn-color: #ffffff;
+    --second-btn-color: #2196F3;;
+    --header-text-color:#000000;
+    --footer-color:#2F303A;
+}
+
+.header {
+    background-color: var(--main-title-color);
+    color: var(--header-text-color);
+}
+
+
+.body {
+    font font-family: Roboto, sans-serif;
+    background-color: var(--)
+    
+    
+}
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+
+/* Header */
+.logo-one, .logo-two {color: inherit;}
+.logo-one{
+    color: var(--accent-color);
+    font-weight: 400;
+font-size: 26px;
+line-height: 1.38;
+letter-spacing: 0.03em;
+}
+.logo-two {
+    color: #000000
+    font-weight: 400;
+font-size: 26px;
+line-height: 1.38;
+letter-spacing: 0.03em;
+}
+.logo-title {
+ color: var(--header-text-color);   
+}
+
+.logo{
+    font-family: Raleway, sans-serif;
+}
+.header-item:hover,
+.header-item:focus {
+    color: ;
+}
+
+/* Body */
+
+.button {
+    font-family: inherit;
+}
+
+/* Footer */
+
+footer{
+    background-color: var(--footer-color);
+}
