@@ -15,7 +15,7 @@
   color: var(--header-text-color);
 }
 
-.body {
+body {
   font-family: Roboto, sans-serif;
   background-color: var(--main-title-color);
 }
