@@ -7,7 +7,7 @@
   --accent-color: #2196f3;
   --header-text-color: #000000;
   --footer-color: #2f303a;
-  --button-color:#F5F4FA;
+  --button-color: #f5f4fa;
 }
 
 .header {
@@ -228,6 +228,7 @@ body {
 .portfolio-button:focus {
   color: var(--main-title-color);
   background-color: var(--accent-color);
+}
 
 .portfolio-examples-list-item-company {
   font-weight: 700;
